@@ -8,4 +8,4 @@ def Prime(num):
     else:
         return str(num)+" is a prime"
 p=Prime(int(input()))
-print(p)
+print("prime",p)
